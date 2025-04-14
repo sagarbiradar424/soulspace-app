@@ -1,0 +1,47 @@
+.problem-card {
+  display: flex;
+  flex-direction: row;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.video-container {
+  flex: 1;
+  min-width: 300px;
+  max-width: 480px;
+  height: 270px;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px 0 0 10px;
+}
+
+.quote-content {
+  flex: 2;
+  padding: 1.5rem;
+  background: #f9f9f9;
+}
+
+.quote-content h2 {
+  font-size: 24px;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.quote {
+  font-size: 18px;
+  font-style: italic;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.caption {
+  font-size: 14px;
+  color: #777;
+  margin-top: auto;
+}
