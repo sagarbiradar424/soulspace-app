@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soulspace-app/static/css/main.2b4a7f06.css",
+    "main.js": "/soulspace-app/static/js/main.a6379e3f.js",
+    "static/js/453.823b8014.chunk.js": "/soulspace-app/static/js/453.823b8014.chunk.js",
+    "index.html": "/soulspace-app/index.html",
+    "main.2b4a7f06.css.map": "/soulspace-app/static/css/main.2b4a7f06.css.map",
+    "main.a6379e3f.js.map": "/soulspace-app/static/js/main.a6379e3f.js.map",
+    "453.823b8014.chunk.js.map": "/soulspace-app/static/js/453.823b8014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4a7f06.css",
+    "static/js/main.a6379e3f.js"
+  ]
+}
